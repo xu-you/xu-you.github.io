@@ -623,6 +623,9 @@ h1.navbar-brand {
     overflow: hidden;
     position: relative;
     width: 32%;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
 }
 
 figcaption.mask {
